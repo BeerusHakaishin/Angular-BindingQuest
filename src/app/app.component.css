@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    height: 98vh;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  
+  .topBox {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .downBox {
+    display: flex;
+    justify-content: space-between;
+  }
